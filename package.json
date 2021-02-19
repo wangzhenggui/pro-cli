@@ -1,0 +1,30 @@
+{
+  "name": "selene-cli",
+  "version": "1.0.0",
+  "description": "脚手架工具，本地管理多模版工具",
+  "main": "index.js",
+  "bin": {
+    "pro": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-table": "^0.3.4",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^7.1.0",
+    "ora": "^5.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhenggui/pro-cli.git"
+  },
+  "author": "wangzhenggui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangzhenggui/pro-cli/issues"
+  },
+  "homepage": "https://github.com/wangzhenggui/pro-cli#readme"
+}
