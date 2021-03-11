@@ -1,1 +1,7 @@
-{"umi":{"url":"https://github.com/umijs/umi.git","branch":"master","description":"umi 框架"}}
+{
+  "react": {
+    "url": "https://github.com/wangzhenggui/react-template",
+    "branch": "master",
+    "description": "自定义react项目模版"
+  }
+}
