@@ -3,5 +3,10 @@
     "url": "https://github.com/wangzhenggui/react-template",
     "branch": "master",
     "description": "自定义react项目模版"
+  },
+  "widgets": {
+    "url": "https://github.com/wangzhenggui/widgets-template",
+    "branch": "master",
+    "description": "组件资产模板"
   }
 }
