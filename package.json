@@ -1,6 +1,6 @@
 {
   "name": "selene-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "脚手架工具，本地管理多模版工具",
   "main": "index.js",
   "bin": {

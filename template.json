@@ -1,11 +1,11 @@
 {
   "react": {
-    "url": "https://github.com/wangzhenggui/react-template",
+    "url": "https://github.com/wangzhenggui/react-template.git",
     "branch": "master",
     "description": "自定义react项目模版"
   },
   "widgets": {
-    "url": "https://github.com/wangzhenggui/widgets-template",
+    "url": "https://github.com/wangzhenggui/widgets-template.git",
     "branch": "master",
     "description": "组件资产模板"
   }
